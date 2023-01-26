@@ -7,10 +7,9 @@ function App() {
     <div className="App">
       <div className="container">
       <header>
-      <h1>DICTIONARY</h1>
-      <Dictionary />
+      <Dictionary defaultKeyword="book" />
       </header>
-      <footer className="mt-3">Coded by WP, <a href="https://github.com/becauseidontlike/dictionary" target="_blank" rel="noreferrer">open-sourced code</a></footer>
+      <footer className="mt-5 mb-5">Coded by WP, <a href="https://github.com/becauseidontlike/dictionary" target="_blank" rel="noreferrer">open-sourced code</a></footer>
       </div>
     </div>
   );

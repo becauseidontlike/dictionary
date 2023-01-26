@@ -1,0 +1,21 @@
+.Meaning .part {
+    font-size: 25px;
+}
+
+.Meaning .def {
+line-height: 1.7;
+font-size: 15px;
+color: rgb(49, 49, 49);
+}
+
+.Meaning .example {
+color: rgb(75, 75, 75);
+font-size: 15px;
+line-height: 1.5;
+}
+
+.Meaning .synonim {
+color: rgb(75, 75, 75);
+font-weight: 500;
+font-size: 15px;
+}

@@ -2,3 +2,41 @@
     display: block;
     text-align: center;
 }
+
+.Dictionary section {
+    background-color: rgb(192, 209, 224);
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 25px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.Dictionary h1 {
+    color: beige;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Dictionary input {
+    width: 100%;
+    padding: 10px 10px;
+    border: 1px solid rgb(50, 57, 51);
+    border-radius: 5px;
+}
+
+.Dictionary .hint {
+    text-align: left;
+    color: beige;
+}
+
+.Dictionary .word {
+    background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/064/562/original/pexels-caryn-morgan-938165.jpg?1674745375");
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
