@@ -14,3 +14,7 @@ body {
   background-attachment: fixed;
 }
 
+.App {
+  max-width: 900px;
+  margin: 0 auto;
+}
