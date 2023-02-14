@@ -9,7 +9,7 @@ function App() {
       <header>
       <Dictionary defaultKeyword="book" />
       </header>
-      <footer className="mt-5 mb-5">Coded by WP, <a href="https://github.com/becauseidontlike/dictionary" target="_blank" rel="noreferrer">open-sourced code</a></footer>
+      <footer className="mt-5 mb-5">Coded by <a href="https://github.com/becauseidontlike" target="_blank" rel="noreferrer">WP</a>, <a href="https://github.com/becauseidontlike/dictionary" target="_blank" rel="noreferrer">open-sourced code</a></footer>
       </div>
     </div>
   );
